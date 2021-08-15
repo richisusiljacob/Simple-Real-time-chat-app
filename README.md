@@ -42,6 +42,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project  
+[![product-screenshot]](https://github.com/richisusiljacob/Simple-Real-time-chat-app/blob/main/images/n1.PNG)
+[![product-screenshot1]](https://github.com/richisusiljacob/Simple-Real-time-chat-app/blob/main/images/n2.PNG)
+[![product-screenshot2]](https://github.com/richisusiljacob/Simple-Real-time-chat-app/blob/main/images/n3.PNG)
+[![product-screenshot3]](https://github.com/richisusiljacob/Simple-Real-time-chat-app/blob/main/images/n4.PNG)
 
 
 
